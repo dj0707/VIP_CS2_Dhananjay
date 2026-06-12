@@ -1,0 +1,5 @@
+mongod --dbpath "C:\Users\Computer\OneDrive\Documents\Online complaint\data\db" - Backend Part
+npm run dev - Front End
+
+MongoDB Server- mongodb://127.0.0.1:27017
+Open Database - online_complaints

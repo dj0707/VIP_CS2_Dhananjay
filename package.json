@@ -1,0 +1,13 @@
+{
+  "name": "online-complaint-registration-system",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack MERN complaint registration and management system.",
+  "scripts": {
+    "install:all": "npm install --prefix server && npm install --prefix client",
+    "backend": "npm run dev --prefix server",
+    "frontend": "npm run dev --prefix client",
+    "dev": "node dev.mjs",
+    "start": "npm start --prefix server"
+  }
+}
